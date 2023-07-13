@@ -8,6 +8,6 @@ This is a simple mimic game of Binding of Isaac written in Java. Upon running th
 
 This project integrated the use of .wav files into coding as well as testing my coding knowledge. While not as OOP-extensive as my other projects, it was still a fun challenge.
 
-To Run: java .\Driver.java
+To run: java .\Driver.java
 
 This program requires a Java IDE of some kind to run. It has been tested both with BlueJ and Visual Studio Code.
